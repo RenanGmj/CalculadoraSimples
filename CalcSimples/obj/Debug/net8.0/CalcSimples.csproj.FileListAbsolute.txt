@@ -1,0 +1,14 @@
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\bin\Debug\net8.0\CalcSimples.exe
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\bin\Debug\net8.0\CalcSimples.deps.json
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\bin\Debug\net8.0\CalcSimples.runtimeconfig.json
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\bin\Debug\net8.0\CalcSimples.dll
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\bin\Debug\net8.0\CalcSimples.pdb
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\obj\Debug\net8.0\CalcSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\obj\Debug\net8.0\CalcSimples.AssemblyInfoInputs.cache
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\obj\Debug\net8.0\CalcSimples.AssemblyInfo.cs
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\obj\Debug\net8.0\CalcSimples.csproj.CoreCompileInputs.cache
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\obj\Debug\net8.0\CalcSimples.dll
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\obj\Debug\net8.0\refint\CalcSimples.dll
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\obj\Debug\net8.0\CalcSimples.pdb
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\obj\Debug\net8.0\CalcSimples.genruntimeconfig.cache
+C:\Users\renan gomes\Desktop\CalculadoraSimples\CalcSimples\obj\Debug\net8.0\ref\CalcSimples.dll
